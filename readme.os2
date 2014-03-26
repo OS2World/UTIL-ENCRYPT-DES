@@ -1,0 +1,22 @@
+This is the OS/2 port of the DES encryption algorithm.
+
+For more informations about DES, please consult the URL 
+
+http://en.wikipedia.org/wiki/Data_Encryption_Standard
+
+I found this source code into an old Fernwood archive, so I decided to give it
+a try with GCC 4.5.2, and it worked easily :-)
+
+I don't give any warranty about the internals, nor I can guarantee that it won't
+trash completely your disks. Be warned you are using this software at your risk.
+
+If you find this useful, please consider making a donation and giving feedback to
+Paul Smedley, who brought GCC 4.5.2 to the OS/2 world, and to all the other
+developer / system engineers who continue their tremendous work on OS/2. User's
+feedback is highly appreciated, along with requests and all other signals of
+activity from the community.
+
+Have fun
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
